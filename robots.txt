@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDIT: swap in your real domain once the site is live
+Sitemap: https://YOUR-DOMAIN.vercel.app/sitemap.xml
